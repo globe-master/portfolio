@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://globe-master.github.io/portfolio/sitemap.xml
